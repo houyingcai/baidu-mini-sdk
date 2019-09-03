@@ -224,18 +224,7 @@ $app = new BaiduClient('App Key', 'App Secret', new YourHttpClient());
 - [百度小程序开发资源汇总](https://github.com/quickappdev/awesome-smartapp)
 - [微信小程序转百度小程序评估](./WECHAT-TO-BAIDU.md)
 
-## 感想
-
-在研究小程序支付部分时，居然发现其 [签名过程](https://dianshang.baidu.com/platform/doclist/index.html#!/doc/nuomiplus_2_base/sign_v2.md)、[SDK](https://dianshang.baidu.com/platform/doclist/index.html#!/doc/nuomiplus_3_business/moneycourt/settle.md) 等几乎与 [支付宝开放平台 SDK](https://docs.open.alipay.com/54/103419/) 一模一样。但从修改日期来看，支付宝是 2014 年，百度是 2016 年，且百度的代码相对规范些。
-
-难不成... 是大佬被挖走了？
-
 ## 协议
 
 MIT
 
-欢迎 Issue / PR。
-
-欢迎关注我们的产品。
-
-[<img src="https://i.loli.net/2018/07/24/5b56dda76b2ba.png" width="30%" height="30%">](http://www.zjhejiang.com/)
