@@ -1,5 +1,5 @@
 {
-    "name": "hyc/baidu-mini-sdk",
+    "name": "houyingcai/baidu-mini-sdk",
     "description": " baidu-mini-sdk",
     "type": "library",
     "require": {
@@ -19,7 +19,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "hyc",
+            "name": "houyingcai",
             "email": "594609175@qq.com"
         }
     ],
