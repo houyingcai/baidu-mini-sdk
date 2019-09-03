@@ -43,7 +43,7 @@ Baidu Smart Mini-Program SDK for PHP
 1. 安装。
 
     ```bash
-    composer require wi1dcard/baidu-mini-program-sdk:dev-master
+    composer require houyingcai/baidu-mini-sdk:dev-master
     ```
 
 2. 创建 `BaiduClient`。
