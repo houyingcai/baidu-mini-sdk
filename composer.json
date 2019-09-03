@@ -1,6 +1,6 @@
 {
     "name": "hyc/baidu-mini-sdk",
-    "description": "百度小程序 PHP SDK。",
+    "description": " baidu-mini-sdk",
     "type": "library",
     "require": {
         "php": ">=5.4",
